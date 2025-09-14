@@ -2,7 +2,7 @@
 
 App Preview.
 
-<img src="assets/fitness-app.jpg" alt="App Screenshot" width="200" height="200" />
+<img src="assets/fitness-app.jpg" alt="App Screenshot" height="800" />
 
 
 
