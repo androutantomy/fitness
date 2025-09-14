@@ -1,6 +1,10 @@
-# fitness
+# Fitness App
 
-A new Flutter project.
+App Preview.
+
+![Screenshot](assets/fitness-app.jpg)
+
+
 
 ## Getting Started
 
