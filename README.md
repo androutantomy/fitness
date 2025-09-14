@@ -2,7 +2,7 @@
 
 App Preview.
 
-![Screenshot](assets/fitness-app.jpg)
+<img src="assets/fitness-app.jpg" alt="App Screenshot" width="200" height="200" />
 
 
 
